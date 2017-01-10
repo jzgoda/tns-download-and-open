@@ -1,0 +1,13 @@
+# NativeScript
+npm-debug.log
+hooks/
+lib/
+node_modules/
+platforms/
+
+#TypeScript
+app/**/*.js
+app/**/*.map
+
+# IntelliJ
+.idea/
